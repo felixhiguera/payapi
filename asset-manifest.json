@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/payapi/static/css/main.4f720d2d.chunk.css",
+    "main.js": "/payapi/static/js/main.9f4bf93c.chunk.js",
+    "main.js.map": "/payapi/static/js/main.9f4bf93c.chunk.js.map",
+    "runtime-main.js": "/payapi/static/js/runtime-main.d5e821e9.js",
+    "runtime-main.js.map": "/payapi/static/js/runtime-main.d5e821e9.js.map",
+    "static/js/2.47779c08.chunk.js": "/payapi/static/js/2.47779c08.chunk.js",
+    "static/js/2.47779c08.chunk.js.map": "/payapi/static/js/2.47779c08.chunk.js.map",
+    "static/js/3.b4d22df0.chunk.js": "/payapi/static/js/3.b4d22df0.chunk.js",
+    "static/js/3.b4d22df0.chunk.js.map": "/payapi/static/js/3.b4d22df0.chunk.js.map",
+    "index.html": "/payapi/index.html",
+    "static/css/main.4f720d2d.chunk.css.map": "/payapi/static/css/main.4f720d2d.chunk.css.map",
+    "static/js/2.47779c08.chunk.js.LICENSE.txt": "/payapi/static/js/2.47779c08.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/payapi/static/media/phone1.6673596a.png",
+    "static/media/Rectangle.e7a0d607.png": "/payapi/static/media/Rectangle.e7a0d607.png",
+    "static/media/iPhone-X-Mockup.ca16028b.png": "/payapi/static/media/iPhone-X-Mockup.ca16028b.png",
+    "static/media/phoncito.5b57b575.png": "/payapi/static/media/phoncito.5b57b575.png",
+    "static/media/phone2.e4152013.png": "/payapi/static/media/phone2.e4152013.png",
+    "static/media/phones.100dbf0e.png": "/payapi/static/media/phones.100dbf0e.png",
+    "static/media/rectangle2.b4e0c5ff.png": "/payapi/static/media/rectangle2.b4e0c5ff.png",
+    "static/media/together2.9cd1d853.png": "/payapi/static/media/together2.9cd1d853.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5e821e9.js",
+    "static/js/2.47779c08.chunk.js",
+    "static/css/main.4f720d2d.chunk.css",
+    "static/js/main.9f4bf93c.chunk.js"
+  ]
+}
